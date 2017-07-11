@@ -1,5 +1,5 @@
 {
-  "name": "Baseball Matchs",
+  "name": "baseballMatchs",
   "version": "1.0.0",
   "description": "List the results of matchs",
   "main": "index.js",
