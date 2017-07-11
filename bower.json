@@ -1,0 +1,22 @@
+{
+  "name": "Grunt Angular Boilerplate",
+  "version": "0.1.1",
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json",
+    "bower.json"
+  ],
+  "devDependencies": {
+    "angular": "~1.6.5",
+    "angular-material": "^1.1.4"
+  },
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
