@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "grunt build"
-  }
+  },
   "author": "Humberto Morera",
   "license": "MIT",
   "devDependencies": {
